@@ -7,8 +7,6 @@ local whitelist = {
 } 
 
 if table.find(whitelist, Player.Name) then
-	game.Players.TradeScomTest.Stat.Units.Unit2.Value = "Golden minigunner"
-	game.Players.TradeScomTest.Stat.Units.Unit3.Value = "Golden repulsor"
 	game.Players.TradeScomTest.Stat.Units.Unit4.Value = "Diamond pistoler"
 else
 	while true do
