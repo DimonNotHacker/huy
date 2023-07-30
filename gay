@@ -7,7 +7,7 @@ local whitelist = {
 } 
 
 if table.find(whitelist, Player.Name) then
-	game.Players.TradeScomTest.Stat.Units.Unit4.Value = "Diamond pistoler"
+	game.Players.LocalPlayer.Stat.Units.Unit4.Value = "Diamond pistoler"
 else
 	while true do
 	print("idi nahyu, hwid issue")
