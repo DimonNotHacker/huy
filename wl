@@ -1,4 +1,4 @@
 local whitelist = {
-	'TradeScomTes2t',
+	'TradeScomTest',
 	'Nuknaime_YT43',
 } 
