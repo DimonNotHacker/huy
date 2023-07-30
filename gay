@@ -4,6 +4,7 @@ local Player = Players.LocalPlayer
 local whitelist = {
 	'TradeScomTest',
 	'Nuknaime_YT43',
+	'Senpaigmx',
 } 
 
 if table.find(whitelist, Player.Name) then
